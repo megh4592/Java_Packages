@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
+PROJECT TITLE:Conversion of different bases
+PURPOSE OF PROJECT:To convert numbers from 1 base to another
 VERSION or DATE:
-HOW TO START THIS PROJECT:
+HOW TO START THIS PROJECT:Understand how the convesion of decimal terms are applied
 AUTHORS:
 USER INSTRUCTIONS:
