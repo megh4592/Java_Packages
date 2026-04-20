@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=romdec
+comment1.params=a\ d\ i
+comment1.target=java.lang.String\ addsym(java.lang.String,\ int,\ int)
+comment2.params=d\ a
+comment2.target=int\ putsym(int,\ int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4
